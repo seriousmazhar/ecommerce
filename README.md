@@ -22,3 +22,9 @@ $ cd frontend
 $ npm install
 $ npm start
 
+6.Run Bank/backend
+ & cd Bank/backend
+ & npm install
+ & npm start
+ 
+
